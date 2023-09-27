@@ -1,3 +1,7 @@
+## Project Description
+
+The backend part of an e-commerce platform where ambassadors can select products added by an administrator (owner) and generate a link to share with clients. This link is the URL that will redirect the client to the checkout application where he can complete the process. After completing an order, the owner will get 90% and the ambassador 10%.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -24,8 +28,7 @@
 
 ## Description
 
-<!--[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.-->
-The backend part of an e-commerce platform where ambassadors can select products added by an administrator (owner) and generate a link to share with clients. This link is the URL that will redirect the client to the checkout application where he can complete the process. After completing an order, the owner will get 90% and the ambassador 10%.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
